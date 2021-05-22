@@ -1,0 +1,19 @@
+Communication POS termianal machine
+I want to build a checkout computer program for store owners. 
+I'd like to be able to figure out the total price in the program, 
+send that amount to a credit card reader, 
+have the reader carry out the transaction, 
+and then report to my application that the transaction was successful or failed.
+
+Only if you have experience with it developing software.
+
+communicating that information with the credit card reader
+Integration
+
+
+
+Synchronics.Verifone.1000.PaymentDisplay
+
+
+test sample data
+02433531004AC104000004D20301

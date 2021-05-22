@@ -1,0 +1,9 @@
+https://github.com/checkin247/CreditCardTerminalApi
+https://github.com/developermypos/myPOS-SDK-dotNET#terminal-management
+
+RS232 - USB 2.0 Device - Ethernet
+Chip & PIN - Magstripe - Contactless
+Payment Terminal Software Integration
+3.5 inch 240 x 320 Pixels Color TFT LCD Touchscreen
+PCI PTS 4.x approved, SRED
+
